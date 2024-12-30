@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+  }
+
+  input:focus {
+    background-color: darkgray;
+    text-emphasis-color: black;
+  }
+
+  button:focus {
+    background-color: tan;
+  }
